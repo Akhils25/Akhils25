@@ -30,9 +30,9 @@
 ---
 
 ## 📫 How to reach me:
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile URL]
-- 🧑‍💻 Portfolio: [Your Portfolio or Website URL]
+- 📧 Email: akhils.developer@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/akhil-s-77052a13b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🧑‍💻 Portfolio: https://akhils.framer.website/
 - 📱 GitHub: [@Akhils25](https://github.com/Akhils25)
 
 ---
