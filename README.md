@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akhil (@Akhils25)
+# 👋 Hi, I’m Akhil 
 
 🚀 I'm a passionate **Mobile App Developer** who loves building sleek, user-friendly apps that make a difference.
 
