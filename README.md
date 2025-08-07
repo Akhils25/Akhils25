@@ -37,10 +37,6 @@
 
 ---
 
-##  Pronouns: He/Him
-
----
-
 ##  Fun fact:
 I love turning coffee into code and solving bugs like puzzles 🧩. Also a huge fan of dark mode and minimal UI ✨.
 
