@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Akhil 
+# Hi, I’m Akhil 
 
-🚀 I'm a passionate **Mobile App Developer** who loves building sleek, user-friendly apps that make a difference.
+ I'm a passionate **Mobile App Developer** who loves building sleek, user-friendly apps that make a difference.
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌱 I’m currently learning:
+##  I’m currently learning:
 - Jetpack Compose & Android Architecture Components
 - SwiftUI for iOS apps
 - Firebase and real-time features
@@ -21,7 +21,7 @@
 
 ---
 
-## 💞️ I’m looking to collaborate on:
+##  I’m looking to collaborate on:
 - Open-source mobile app projects
 - Startups needing MVP mobile apps
 - Projects that solve real-world problems
@@ -29,7 +29,7 @@
 
 ---
 
-## 📫 How to reach me:
+##  How to reach me:
 - 📧 Email: akhils.developer@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/akhil-s-77052a13b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 🧑‍💻 Portfolio: https://akhils.framer.website/
@@ -37,11 +37,11 @@
 
 ---
 
-## 😄 Pronouns: He/Him
+##  Pronouns: He/Him
 
 ---
 
-## ⚡ Fun fact:
+##  Fun fact:
 I love turning coffee into code and solving bugs like puzzles 🧩. Also a huge fan of dark mode and minimal UI ✨.
 
 ---
