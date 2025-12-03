@@ -5,7 +5,7 @@
 ---
 
 ## 👀 I’m interested in:
-- Android & iOS App Development (Kotlin, Swift, Flutter)
+- Android & iOS App Development (Kotlin, Flutter)
 - UI/UX Design for mobile
 - Clean architecture & scalable code
 - Integrating payment gateways & APIs
