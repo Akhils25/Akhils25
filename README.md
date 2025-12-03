@@ -15,7 +15,6 @@
 
 ##  I’m currently learning:
 - Jetpack Compose & Android Architecture Components
-- SwiftUI for iOS apps
 - Firebase and real-time features
 - Clean code practices & design patterns
 
